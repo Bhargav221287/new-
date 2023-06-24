@@ -9,7 +9,7 @@ ls => to see the files in a short form
 ll -a => to see the long list of fles and directories including hidden files
 git status => to see the status of the files
 git add => to add the files into staging
-git commit -m "this ia --- commit" =>
+git commit -m "this ia --- commit" filename => to commit a file
 git add * => used to add all the files into staging or index (used in multiple file cases)
 git add filename1 filename2 => to add 2 files at a time
 git add filename{startingno. .. endingno. } => to add multiple files with same name with differeant numbering [no. =number]
