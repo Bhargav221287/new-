@@ -7,5 +7,5 @@ ls -to see the files in a short form
 ll -a - to see the long list of fles and directories including hidden files
 git status - to see the status of the files
 git add -to add the files into staging
-
+git commit -m "  "-- to 
 
