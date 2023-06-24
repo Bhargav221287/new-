@@ -1,4 +1,10 @@
 vim-to create and write in a file
 touch-to create file 
-ll-long list
+ll-long list of files and directories
+git clone - to clone remote repository into local machine
+cd- to change the directory
+ls -to see the files in a short form
+ll -a - to see the long list of fles and directories including hidden files
+git status - to see the status of the files
+
 
